@@ -1,15 +1,15 @@
 # Kamila Rodrigues Serpa
 Desenvolvedora Full Stack.
 
-> [Baixar PDF] (curriculo.pdf)  
-> [kamilardg@gmail.com] (kamilardg@gmail.com)  
+> [Baixar PDF](curriculo.pdf)  
+> [kamilardg@gmail.com](kamilardg@gmail.com)  
 > (85) 98722-****
 
 ------
 
 ### Perfil
 
-Desenvolvedora Full Stack com experiência em Java, Spring Boot, Angular, e aplicações mobile híbridas (Ionic, React Native, futuramente Flutter). Gosto de evoluir e fortalecer meus conhecimentos. Acredito que o trabalho em equipe é essencial, compartilhar conhecimento e experiências torna o desenvolvimento mais produtivo.
+Desenvolvedora Full Stack com experiência em Java, Spring Boot, JavaScript, TypeScript, Angular, e aplicações mobile híbridas (Ionic, React Native, futuramente Flutter). Gosto de evoluir e fortalecer meus conhecimentos. Acredito que o trabalho em equipe é essencial, compartilhar conhecimento e experiências torna o desenvolvimento mais produtivo.
 
 ------
 
@@ -26,6 +26,8 @@ Desenvolvedora Full Stack com experiência em Java, Spring Boot, Angular, e apli
 
 * Trabalho em equipe
   : Facilidade de trabalho em equipe. Utilização de metodologias ágeis. Participação de reuniões com clientes, inclusive para discussão de escopo de projeto e regras de negócio.
+
+* Inglês Técnico
 
 -------
 
@@ -58,17 +60,18 @@ Ivia
 
 ------
 
-### Projetos dos quais participei
+### Alguns projetos em que participei
 
- - [Pocket Pet] (https://play.google.com/store/apps/details?id=com.invistatech.handoverservicos.pocketpet&hl=pt_BR)
- - [Rede Job] (https://play.google.com/store/apps/details?id=com.invistatech.handoverservicos.redejob&hl=en_US)
- - [Taxi Brasil] (https://play.google.com/store/apps/details?id=br.com.invistatech.meutaxi.taxibrasil&hl=pt_BR)
+ - [Pocket Pet](https://play.google.com/store/apps/details?id=com.invistatech.handoverservicos.pocketpet&hl=pt_BR)
+ - [Rede Job](https://play.google.com/store/apps/details?id=com.invistatech.handoverservicos.redejob&hl=en_US)
+ - [Taxi Brasil](https://play.google.com/store/apps/details?id=br.com.invistatech.meutaxi.taxibrasil&hl=pt_BR)
 
 ------
 
 ### Mantenedora das páginas
 
- - [http://ideiasemusica.com.br] (http://ideiasemusica.com.br)
- - [http://cinatomoveis.web.app] (http://cinatomoveis.web.app)
+ - [http://ideiasemusica.com.br](http://ideiasemusica.com.br)
+ - [http://cinatomoveis.web.app](http://cinatomoveis.web.app)
+ - [Portfólio](https://kamilaserpa.wixsite.com/portfolio)
 
 ------
