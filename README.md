@@ -70,7 +70,7 @@ Ivia
 
 ### Mantenedora das páginas
 
- - [http://ideiasemusica.com.br](http://ideiasemusica.com.br)
+ - [http://ideiasemusica.com.br](http://ideiasemusica.com)
  - [http://cinatomoveis.web.app](http://cinatomoveis.web.app)
  - [Portfólio](https://kamilaserpa.wixsite.com/portfolio)
 
