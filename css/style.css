@@ -163,7 +163,7 @@ button:focus,
     display                : flex;
     -webkit-flex-direction : row;
     flex-direction         : row;
-    margin                 : 60px auto;
+    margin                 : 30px auto;
     padding                : 0;
     box-shadow             : 0 0 0 1px #eaeaea;
     }
@@ -194,6 +194,7 @@ button:focus,
         display    : block;
         margin     : 0;
         box-shadow : none;
+        padding-top: 4rem;
         }
 
     .left-col-block {
@@ -235,13 +236,13 @@ button:focus,
  * Section Wrapper
  *-------------------*/
 .section-wrapper {
-    padding       : 50px;
+    padding       : 5rem 50px 50px 50px;
     border-bottom : 1px solid #eaeaea;
     }
 
 @media (max-width : 480px) {
     .section-wrapper {
-        padding : 30px 20px;
+        padding : 5rem 20px;
         }
     }
 
@@ -570,4 +571,20 @@ button:focus,
 
 .w-7em {
     width: 7em;
+}
+html {
+    scroll-behavior: smooth;
+}
+li.active > a {
+    font-size: 19px;
+    font-weight: bold;
+}
+.p-0 {
+    padding: 0 !important;
+}
+.p-2 {
+    padding: 2em !important;
+}
+.navbar-brand {
+    font-weight: bold;
 }
